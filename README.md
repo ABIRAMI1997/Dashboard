@@ -1,2 +1,2 @@
 # Dashboard
-Qliksense and PowerBI open source projects
+Tableau and PowerBI open source projects.
